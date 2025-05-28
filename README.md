@@ -1,26 +1,30 @@
 <h1 align="center">💫 Shreya Kaushal</h1>
 <p align="center">💻 Full-Stack Developer | 🚀 AI Enthusiast | 🌍 Social Impact Creator</p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amrsunja/amrsunja/main/images/banner.gif" alt="Banner GIF" />
+</p>
+
 ---
 
 ### 🔭 Currently Building:
-- 🤖 AI-powered web apps & voice assistants  
-- 🌐 Real-world impact platforms like **Sahayta**  
-- 💡 Hackathon-ready innovations 🚀  
+- AI-powered web apps & voice assistants
+- Real-world impact platforms like **Sahayta**
+- Hackathon-ready innovations 🚀
 
 ### 👯 Looking to Collaborate On:
-- 🧩 Full-stack web projects  
-- 🎙️ AI + voice integrations  
-- ⚡ Real-time feature-rich apps  
+- Full-stack web projects
+- AI + voice integrations
+- Real-time feature-rich apps
 
 ### 🤝 Seeking Help With:
-- 🛠️ Spring Boot performance optimization  
-- 🌍 Scaling live features using Convex  
+- Spring Boot performance optimization
+- Scaling live features using Convex
 
 ### 🌱 Currently Learning:
-- ⚛️ Advanced React  
-- ☕ Spring Boot (Java)  
-- 🧠 Real-time AI voice technologies  
+- Advanced React
+- Spring Boot (Java)
+- Real-time AI voice technologies
 
 ### 💬 Ask Me About:
 Java • JavaScript • Python • React • HTML/CSS • Building meaningful tech 🛠️
@@ -30,23 +34,17 @@ Java • JavaScript • Python • React • HTML/CSS • Building meaningful te
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect with Me:
 
 <p align="center">
-  <a href="https://linkedin.com/in/shreyakaushal118">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://codepen.io/Shreya-Kaushal">
-    <img src="https://img.shields.io/badge/CodePen-000000?logo=codepen&logoColor=white" />
-  </a>
-  <a href="mailto:shreyakaushal118@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://linkedin.com/in/shreyakaushal118"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+  <a href="https://codepen.io/Shreya-Kaushal"><img src="https://img.shields.io/badge/CodePen-000000?logo=codepen&logoColor=white" /></a>
+  <a href="mailto:shreyakaushal118@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech Stack:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-%23ED8B00?style=flat&logo=openjdk&logoColor=white" />
@@ -72,7 +70,6 @@ Java • JavaScript • Python • React • HTML/CSS • Building meaningful te
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=shreyakaushal180&theme=transparent&hide_border=false" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyakaushal180&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
