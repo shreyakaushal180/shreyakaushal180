@@ -19,10 +19,10 @@ Currently shipping production-grade projects and contributing to open source.
 
 | | |
 |---|---|
-| 🏅 **Postman Student Expert** | Certified in API design & testing |
-| 📊 **NPTEL Software Engineering** | Top 5% nationally |
-| 🎤 **AWS Workshop Speaker** | Led session for 70+ participants |
-| 🔀 **Open Source Contributor** | Contributing to MERN-stack projects |
+|  **Postman Student Expert** | Certified in API design & testing |
+|  **NPTEL Software Engineering** | Top 5% nationally |
+|  **AWS Workshop Speaker** | Led session for 70+ participants |
+|  **Open Source Contributor** | Contributing to MERN-stack projects |
 
 <br/>
 
@@ -52,14 +52,14 @@ Currently shipping production-grade projects and contributing to open source.
 
 ## Projects
 
-### 💼 Sahayata — Digital Job Marketplace
+###  Sahayata — Digital Job Marketplace
 `Mar 2026 – Apr 2026`
 
 > Full-stack marketplace connecting daily wage workers directly with employers — cutting out intermediaries and improving access to local job opportunities.
 
-- 📍 Skill-based and **location-aware job discovery** for hyperlocal matching
-- 🤝 Employer-worker matching with **complaint resolution workflows**
-- ♿ Responsive, **accessibility-focused UI** designed for low-tech users
+-  Skill-based and **location-aware job discovery** for hyperlocal matching
+-  Employer-worker matching with **complaint resolution workflows**
+-  Responsive, **accessibility-focused UI** designed for low-tech users
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -69,14 +69,14 @@ Currently shipping production-grade projects and contributing to open source.
 
 ---
 
-### ☀️ Halo CME Detection System
+###  Halo CME Detection System
 `Jul 2025`
 
 > Automated solar event detection using real satellite data from **ISRO Aditya-L1** and **SOHO**.
 
-- 📡 Data pipeline with **adaptive z-score & percentile-based anomaly detection**
-- 🔍 Event validation against the **CACTus catalog**
-- ⚙️ Automated workflows for **large-scale scientific datasets**
+-  Data pipeline with **adaptive z-score & percentile-based anomaly detection**
+-  Event validation against the **CACTus catalog**
+-  Automated workflows for **large-scale scientific datasets**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
